@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemocicdApplication {
 
 	public static void main(String[] args) {
-		System.out.println("changes added 1");
+		System.out.println("changes added");
 		SpringApplication.run(DemocicdApplication.class, args);
 	}
 
